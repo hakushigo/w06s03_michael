@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">w06s03</string>
+
+    <string name="placeholder_search">Cari kopi pilihanmu!</string>
+    <string name="category_all">All</string>
+    <string name="category_americano">Americano</string>
+    <string name="category_cappuccino">Cappuccino</string>
+    <string name="category_espresso">Espresso</string>
+    <string name="category_frappe">Frappe</string>
+    <string name="category_latte">Latte</string>
+    <string name="category_machiatto">Machiatto</string>
+    <string name="category_mocha">Mocha</string>
+    <string name="section_favorite_menu">Menu Favorit</string>
+    <string name="section_best_seller_menu">Menu Terlaris</string>
+    <string name="section_category">Mau ngopi apa hari ini?</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_activity_show_detail">ShowDetailActivity</string>
+</resources>
